@@ -4,13 +4,12 @@
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
 <a href="https://www.linkedin.com/in/nick-mullaney/" target="_blank" rel="noopener noreferrer"><img height="40" src="./assets/Linkedin-logo-on-transparent-Background-PNG-.png"></a>&nbsp;&nbsp;
 <a href="mailto:nick.mullaney@gmail.com" target="_blank" rel="noopener noreferrer"><img height="33" src="./assets/Gmail-logo-design-on-transparent-background-PNG.png"></a>&nbsp;&nbsp;
-<!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 </p>
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=nickmullaney.nickmullaney" width="110px">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnickmullaney&labelColor=%23697689&countColor=%23263759"  width="110px">
 </p>
 
 <h3>🧑‍💻 How I Became a Developer</h3>
