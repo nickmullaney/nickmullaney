@@ -43,26 +43,26 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
  
 
   - ### 🌟 **Professional Competencies**
-    - A Growth Mindset:
-      - Ability to deal with ambiguous situations and solve problems with agility
-      - Envision beyond the responsibility of my role
-      - Build a career across multiple disciplines
-      - Attend every opportunity to learn and grow as a professional and a better human 
+    - Leadership & Collaboration
+      - Effectively communicates within a team and across teams
+      - Sets a positive example and influences others
+      - Works tenaciously to deliver on commitments
+      - Constantly seeks bigger challenges
+      - Holds oneself and others accountable
+    
+      - Communication
+        - Ability to deal with ambiguous situations and solve problems with agility
+        - Envisions beyond the responsibility of their role
+        - Builds a career across multiple disciplines
+        - Attends every opportunity to learn and grow professionally
+        - Embraces personal growth as a better human being
 
-    - Diverse and Inclusive:
-      - Empower every person to achieve more
-      - Influencing others by encouraging communication
-      - Lifting up "Non-Traditional Backgrounds"
-      - Create a safe working environment for everyone
-      - Community outreach through volunteering
-
-    - Leadership & Collaboration:
-      - Effectively communicating within a team and across teams
-      - Positively influencing others by setting a good example 
-      - Working tenaciously to deliver on commitments
-      - Constantly seeking bigger challenges
-      - Holding yourself and others accountable
-
+      - Growth Mindset
+        - Empowers every person to achieve more
+        - Encourages communication and influences others
+        - Supports and uplifts individuals from non-traditional backgrounds
+        - Creates a safe working environment for everyone
+        - Engages in community outreach through volunteering
 
   - ### 🌈 **Why I Want to Work in Tech**
     - I want to contribute to the future of technology to aid and assist others.
