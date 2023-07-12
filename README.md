@@ -25,7 +25,7 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 ---------------------
 <h3> My Developer Identity</h3>
 
-### I studied **Full Stack Development** at Code Fellows but I have really found true love in **Javascript** and **AI Integration**.  I am attracted to the idea of building out user friendly and accessible websites and applications that are powered by AI. I am currently working on a few projects that are focused on AI integration into a Dungeons & Dragons application and am looking for more opportunities to work on AI projects.
+### I studied **Full Stack Development** at Code Fellows but I have really found true love in **Javascript** and **AI Integration**.  I am attracted to the idea of building out user friendly and accessible websites and applications that are powered by AI. I am currently working on a few projects that are focused on AI integration and looking for more opportunities to work on AI projects.
 
   - ### 🛠️ **Technologies and Tools**
 
@@ -95,7 +95,7 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
   - Store Homepage for a Spice Company with operating shopping cart and checkout.
   - Helen House website and backend database for a local non-profit.
 
----------------------
+<!-- ---------------------
 <h3>💡 What I'm Learning</h3>
 
   - Coming Soon
@@ -104,14 +104,14 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 
 <a href="https://github.com/HexxKing/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nickmullaney&show_icons=true&theme=midnight-purple" />
-</a>
+</a> -->
 
----------------------
+<!-- ---------------------
 <h3>🎟️ Events I'm Attending</h3>
 
   - Coming Soon
 
----------------------
+--------------------- -->
 
 ![Banner](<assets/Blue Yellow Futuristic Virtual Technology Blog Banner (1).png>)
 
@@ -133,7 +133,14 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 ---------------------
 <h3>👽 Fun Facts</h3>
 
-  - Coming Soon
+  - Dungeon Master for over 20 years
+  - Blacksmith/Leatherworking as crafting hobbies
+  - Currently writing a fantasy series
+  - Love to garden and grow my own food
+  - Hiking and Backpacking are some of my favorite activities
+  - Love Board Games, Video Games, and Puzzles, especially Escape Rooms
+  - Love going to live music shows and the symphony
+  - Won an award for customer service at Bon Appetit out of 300,000 employees across the country
 
 ---------------------
 
