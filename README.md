@@ -38,9 +38,19 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickmullaney&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/nickmullaney/github-readme-stats)
 
   - ### 💎 **Non-Traditional Background**
-    #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from those opportunities.
-  - 
+    #### My journey towards becoming a software developer and software leader has been shaped by my diverse professional experiences. Here's a closer look at two key areas that have contributed to my expertise:
+
+    #### Customer Support & Software Specialist
+  
+  - In my most recent role as a Customer Support Specialist at MarginEdge, I have had the ability to provide exceptional support to clients in a technical capacity. I leverage my creative problem-solving skills to deliver innovative and effective solutions to make sure that our client base is happy. I have been fortunate to work with our Dev team to understand the intricacies of our software better and even had the opportunity to redesign a page for our web application. We frequently use Jira and Zendesk for problem solving and the team there helped spark my passion for software development.
  
+    #### Culinary & Hospitality
+
+    - During my 17 years in the culinary industry, most recently as a Sous Chef at Bright Horizons and BonAppetit@Google, I honed valuable leadership and management skills. Leading diverse teams of up to 30 employees, I successfully managed daily operations and developed systems and standards that are still utilized today. I fostered effective communication and collaboration among team members, creating a positive work environment and promoting teamwork in an oftentimes chaotic environment.
+    
+    - These experiences have provided me with transferable skills that are highly relevant to software development and software leadership roles. I bring strong problem-solving capabilities, a customer-centric mindset, and the ability to effectively communicate to every opportunity. I really enjoy collaborating with teams across different departments and have the ability to deliver messages to teams of every level of the organization. My leadership experience in managing operations, vendor relationships, and projects demonstrates my ability to take on responsibilities and deliver successful outcomes.
+    
+    - With this unique background, I am well-equipped to contribute as a software developer and eventually team leader. I bring a diverse skill set, adaptability, and a passion for technology, allowing me to excel in solving complex problems, looking for innovative solutions, and leading teams towards success.
 
   - ### 🌟 **Professional Competencies**
     - Leadership & Collaboration
@@ -81,7 +91,9 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 ---------------------
 <h3>✍️ What I'm Working On</h3>
 
-  - Coming Soon
+  - Dungeons & Dragons OpenAI and Dalle integrated application to quickly create characters and world settings for Dungeon Masters and Players.
+  - Store Homepage for a Spice Company with operating shopping cart and checkout.
+  - Helen House website and backend database for a local non-profit.
 
 ---------------------
 <h3>💡 What I'm Learning</h3>
@@ -107,7 +119,13 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 
 <h3>📻 My Favorite Coding Playlists</h3>
 
-  - Coming Soon
+  - [Lofi Nature Playlist](https://open.spotify.com/playlist/0cA0sXu2h1UmetXJyMofaH?si=e74fb3bc927548e6)
+  - [Coding Wizard Beats](https://open.spotify.com/playlist/6hFF6QKqq4rZQ7PLaxR4wZ?si=bf1cadf03a374f2d)
+  - [Tool Playlist](https://open.spotify.com/playlist/6PlkPjoQ4PVxTjaDI19pLn?si=d96a4357f8b041aa)
+  - [Budos Band Playlist](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bJRdu?si=5775a2d0b8334d1a)
+  - [Lofi Nerd](https://open.spotify.com/playlist/1yfYJAnEushmdQxOtKTmRK?si=6a3cfe536a8842f7)
+  - [Synthwaves from Space](https://open.spotify.com/playlist/4sgUux9hmykyWYmVoe4W6p?si=a800c565a2574bdd)
+  - 
 
 <!-- --------------------- -->
 <!-- <h3>👭 What I'm Contributing To</h3> -->
