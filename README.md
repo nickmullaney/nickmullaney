@@ -8,6 +8,8 @@
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
+<h3 align="center" target="_blank" rel="noopener noreferrer"> Check out my <a href="https://nickm-portfolio.netlify.app/">Portfolio</a> </h3>
+
 <p align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnickmullaney&labelColor=%23697689&countColor=%23263759"  width="110px">
 </p>
