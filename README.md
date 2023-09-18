@@ -18,9 +18,9 @@
 
 I've always been interested and excited by computers and technology. I built my first desktop at 10 and found myself learning to modify code inside of early video games to mod them slightly. I let all of that stay a passion on the side while I went into Culinary to become a Chef. 
 
-I worked in Culinary for 17 years primarily as a Chef, running kitchens with staff of up to 30 in corporate foodservice. I worked at Google for 6 years and had the privilege to reimerse myself in the technology world and found myself wanting more.
+I worked in Culinary for 17 years primarily as a Chef, running kitchens with staff of up to 30 in corporate food service. I worked at Google for 6 years and had the privilege to immerse myself in the technology world and found myself wanting more.
 
-The pandemic happened and we were fortunately still employed throughout, but I used that time to think about my path and career options. I took a few classes at a local community college while working and kept finding myself in love with Coding. I signed up for the codefellows Bootcamp while working full time to take my coding career to the next level and am graduating in July 2023.
+The pandemic happened and we were fortunately still employed throughout, but I used that time to think about my path and career options. I took a few classes at a local community college while working and kept finding myself in love with Coding. I signed up for the Code Fellows Bootcamp while working full time to take my coding career to the next level and am graduating in July 2023.
 
 Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms, building out beautiful websites, and learning more about AI integration. I am continuing to learn as much as I can about the technology industry in an effort to find my forever role at my dream company.  
 
