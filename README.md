@@ -25,6 +25,12 @@ The pandemic happened and we were fortunately still employed throughout, but I u
 Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms, building out beautiful websites, and learning more about AI integration. I am continuing to learn as much as I can about the technology industry in an effort to find my forever role at my dream company.  
 
 ---------------------
+<h3> Code Fellows Certificate</h3>
+
+<img src="./assets/CodefellowsCertificate.pdf" alt="Code Fellows Certificate" width="100%">
+
+---------------------
+
 <h3> My Developer Identity</h3>
 
 ### I studied **Full Stack Development** at Code Fellows but I have really found true love in **Javascript** and **AI Integration**.  I am attracted to the idea of building out user friendly and accessible websites and applications that are powered by AI. I am currently working on a few projects that are focused on AI integration and looking for more opportunities to work on AI projects.
