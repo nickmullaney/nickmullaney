@@ -27,7 +27,7 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 ---------------------
 <h3> Code Fellows Certificate</h3>
 
-<img src="./assets/CodefellowsCertificate.pdf" alt="Code Fellows Certificate" width="100%">
+<img src="./assets/Certificate.png" alt="Code Fellows Certificate" width="100%">
 
 ---------------------
 
